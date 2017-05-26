@@ -1,0 +1,26 @@
+{
+    "author": "gornostalaa@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "firstproject",
+    "pebble": {
+        "displayName": "FirstProject",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "188e9cd5-8afa-4793-90ec-c206435c5209",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
